@@ -15,4 +15,4 @@
 
 # Add a feed source
 echo 'src-git openclash https://github.com/vernesong/OpenClash.git' >>feeds.conf.default
-echo 'src-git small https://github.com/kenzok8/small-package;18.06' >>feeds.conf.default
+echo 'src-git rabbit https://github.com/Chandler-Lu/openwrt-package.git' >>feeds.conf.default
