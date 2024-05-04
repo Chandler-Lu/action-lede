@@ -15,4 +15,4 @@
 
 # Add a feed source
 echo 'src-git openclash https://github.com/vernesong/OpenClash.git' >>feeds.conf.default
-# echo 'src-git rabbit https://github.com/Chandler-Lu/openwrt-package.git' >>feeds.conf.default
+echo 'src-git argon https://github.com/jerrykuku/luci-theme-argon' >>feeds.conf.default
